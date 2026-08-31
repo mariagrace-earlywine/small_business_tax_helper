@@ -1,0 +1,13 @@
+MARY KAY TAX HELPER - EXPENSE SUMMARY
+--------------------------------------------
+Transactions loaded: 4
+Report month: 2026-01
+
+Totals by category
+Mileage/Fuel              $     34.12
+Office Supplies           $     18.47
+Shipping                  $      9.85
+Software Subscriptions    $     12.99
+
+GRAND TOTAL:              $     75.43
+--------------------------------------------

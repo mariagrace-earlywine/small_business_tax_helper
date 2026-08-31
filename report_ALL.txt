@@ -1,0 +1,4 @@
+Pipeline ran successfully.
+CSV: data/2025_expenses.csv
+Month filter: ALL
+Transactions processed: 202
